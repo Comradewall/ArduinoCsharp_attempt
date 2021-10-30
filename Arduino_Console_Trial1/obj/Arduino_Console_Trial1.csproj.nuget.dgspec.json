@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihai\\Desktop\\Important Stuff\\V1\\C#\\Arduino_Console_Trial1\\Arduino_Console_Trial1.csproj": {}
+    "/home/nep-nep/Documents/Fritzing/ArduinoCsharp_attempt/Arduino_Console_Trial1/Arduino_Console_Trial1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihai\\Desktop\\Important Stuff\\V1\\C#\\Arduino_Console_Trial1\\Arduino_Console_Trial1.csproj": {
+    "/home/nep-nep/Documents/Fritzing/ArduinoCsharp_attempt/Arduino_Console_Trial1/Arduino_Console_Trial1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihai\\Desktop\\Important Stuff\\V1\\C#\\Arduino_Console_Trial1\\Arduino_Console_Trial1.csproj",
+        "projectUniqueName": "/home/nep-nep/Documents/Fritzing/ArduinoCsharp_attempt/Arduino_Console_Trial1/Arduino_Console_Trial1.csproj",
         "projectName": "Arduino_Console_Trial1",
-        "projectPath": "C:\\Users\\mihai\\Desktop\\Important Stuff\\V1\\C#\\Arduino_Console_Trial1\\Arduino_Console_Trial1.csproj",
-        "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihai\\Desktop\\Important Stuff\\V1\\C#\\Arduino_Console_Trial1\\obj\\",
+        "projectPath": "/home/nep-nep/Documents/Fritzing/ArduinoCsharp_attempt/Arduino_Console_Trial1/Arduino_Console_Trial1.csproj",
+        "packagesPath": "/home/nep-nep/.nuget/packages/",
+        "outputPath": "/home/nep-nep/Documents/Fritzing/ArduinoCsharp_attempt/Arduino_Console_Trial1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/nep-nep/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.206/RuntimeIdentifierGraph.json"
         }
       }
     }
